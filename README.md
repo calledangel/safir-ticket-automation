@@ -145,7 +145,7 @@ http://localhost:5000
 ⸻
 
 👤 مالک پروژه
-	•	مالک: calledangel
+	•	مالک: calledangel 
 	•	نام سیستم: Safir Automation Engine
 
 ---
